@@ -1,14 +1,14 @@
 ---
-name: Predbat
+name: Predbat_UT
 version: 1.5.2
-slug: predbat
+slug: predbat-ut
 description: Home Battery Prediction and Control
-url: https://github.com/springfall2008/predbat_addon
-codenotary: tdlj@tdlj.net
+url: https://github.com/BentleyWells/predbat_addon3
+codenotary: al090187@gmail.com
 ingress: True
 ingress_port: 5052
 ingress_root: "/"
-panel_icon: mdi:bat
+panel_icon: mdi:alpha-u
 ports:
   8199/tcp: 8199
 arch:
